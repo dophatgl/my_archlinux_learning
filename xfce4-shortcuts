@@ -1,0 +1,27 @@
+Here are some basic XFCE4 shortcuts to get you started:
+
+1. **Switch between workspaces**:  
+   - `Ctrl + Alt + Arrow Key` (Left or Right) – Move between workspaces.
+
+2. **Window management**:  
+   - `Alt + F4` – Close the active window.
+   - `Alt + F7` – Move window.
+   - `Alt + F8` – Resize window.
+
+3. **Application launcher**:  
+   - `Alt + F2` – Open the application launcher (similar to GNOME’s run command).
+
+4. **File manager**:  
+   - `Super (Windows key) + E` – Open Thunar file manager.
+
+5. **Show desktop**:  
+   - `Ctrl + Alt + D` – Minimize all windows to show the desktop.
+
+6. **Take a screenshot**:  
+   - `PrtScn` – Take a full-screen screenshot.
+   - `Alt + PrtScn` – Take a screenshot of the active window.
+
+7. **Panel shortcuts** (for quick app access):  
+   - `Super + 1, 2, 3, ...` – Open apps pinned on the panel, similar to GNOME's dash-to-dock.
+
+You can customize these and explore more in **Settings** > **Keyboard** > **Application Shortcuts**.
